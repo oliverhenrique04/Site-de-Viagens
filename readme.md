@@ -23,12 +23,12 @@ A atividade consistia em replicar com fidelidade um layout proposto (mockup) de 
 
 ### Opção 1: Visualizar online (Live Preview)
 O projeto foi publicado no GitHub Pages. Você pode acessá-lo através do link abaixo:
-👉 [Clique aqui para ver o site ao vivo](https://SEU_USUARIO.github.io/Site-de-Viagens) *(Nota: Substitua "SEU_USUARIO" pelo seu nome de usuário do GitHub)*
+https://oliverhenrique04.github.io/Site-de-Viagens/ 
 
 ### Opção 2: Executar localmente na sua máquina
 1. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/Site-de-Viagens.git](https://github.com/SEU_USUARIO/Site-de-Viagens.git)
+   git clone [https://github.com/oliverhenrique04/Site-de-Viagens.git](https://github.com/oliverhenrique04/Site-de-Viagens.git)
    ```
 2. Entre na pasta do projeto:
    ```bash
