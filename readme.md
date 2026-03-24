@@ -36,12 +36,3 @@ O projeto foi publicado no GitHub Pages. Você pode acessá-lo através do link 
    ```
 3. Abra o arquivo `index.html` no navegador de sua preferência. Alternativamente, se estiver usando o VS Code, você pode usar a extensão Live Server para abrir o projeto.
 
-## 📝 Licença
-
-Este projeto foi criado para fins educacionais e de estudo.
-```
-
-### Como usar isso:
-1. No VS Code, crie um novo arquivo chamado `README.md`.
-2. Cole todo o conteúdo acima dentro dele.
-3. Não se esqueça de alterar a parte *`SEU_USUARIO`* nos links com o seu nome de usuário real do GitHub antes de fazer o commit.
