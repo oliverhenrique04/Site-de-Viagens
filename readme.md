@@ -23,16 +23,16 @@ A atividade consistia em replicar com fidelidade um layout proposto (mockup) de 
 
 ### Opção 1: Visualizar online (Live Preview)
 O projeto foi publicado no GitHub Pages. Você pode acessá-lo através do link abaixo:
-👉 [Clique aqui para ver o site ao vivo](https://SEU_USUARIO.github.io/exploremundo) *(Nota: Substitua "SEU_USUARIO" pelo seu nome de usuário do GitHub)*
+👉 [Clique aqui para ver o site ao vivo](https://SEU_USUARIO.github.io/Site-de-Viagens) *(Nota: Substitua "SEU_USUARIO" pelo seu nome de usuário do GitHub)*
 
 ### Opção 2: Executar localmente na sua máquina
 1. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/exploremundo.git](https://github.com/SEU_USUARIO/exploremundo.git)
+   git clone [https://github.com/SEU_USUARIO/Site-de-Viagens.git](https://github.com/SEU_USUARIO/Site-de-Viagens.git)
    ```
 2. Entre na pasta do projeto:
    ```bash
-   cd exploremundo
+   cd Site-de-Viagens
    ```
 3. Abra o arquivo `index.html` no navegador de sua preferência. Alternativamente, se estiver usando o VS Code, você pode usar a extensão Live Server para abrir o projeto.
 
